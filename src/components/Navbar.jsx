@@ -1,7 +1,7 @@
 import React from 'react'
 import {
   FaApple, FaArrowRight, FaSearch, FaShoppingBag
-} from 'react-icons/fa'
+} from "react-icons/fa"
 
 const headerr = [
   { name: "Store", href: "#" },
